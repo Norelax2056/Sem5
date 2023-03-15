@@ -1,0 +1,16 @@
+C:\Users\Norelax\Desktop\Sem5\Z34\bin\Debug\net6.0\Z34.exe
+C:\Users\Norelax\Desktop\Sem5\Z34\bin\Debug\net6.0\Z34.deps.json
+C:\Users\Norelax\Desktop\Sem5\Z34\bin\Debug\net6.0\Z34.runtimeconfig.json
+C:\Users\Norelax\Desktop\Sem5\Z34\bin\Debug\net6.0\Z34.dll
+C:\Users\Norelax\Desktop\Sem5\Z34\bin\Debug\net6.0\ref\Z34.dll
+C:\Users\Norelax\Desktop\Sem5\Z34\bin\Debug\net6.0\Z34.pdb
+C:\Users\Norelax\Desktop\Sem5\Z34\obj\Debug\net6.0\Z34.GlobalUsings.g.cs
+C:\Users\Norelax\Desktop\Sem5\Z34\obj\Debug\net6.0\Z34.csproj.AssemblyReference.cache
+C:\Users\Norelax\Desktop\Sem5\Z34\obj\Debug\net6.0\Z34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norelax\Desktop\Sem5\Z34\obj\Debug\net6.0\Z34.AssemblyInfoInputs.cache
+C:\Users\Norelax\Desktop\Sem5\Z34\obj\Debug\net6.0\Z34.AssemblyInfo.cs
+C:\Users\Norelax\Desktop\Sem5\Z34\obj\Debug\net6.0\Z34.csproj.CoreCompileInputs.cache
+C:\Users\Norelax\Desktop\Sem5\Z34\obj\Debug\net6.0\Z34.dll
+C:\Users\Norelax\Desktop\Sem5\Z34\obj\Debug\net6.0\ref\Z34.dll
+C:\Users\Norelax\Desktop\Sem5\Z34\obj\Debug\net6.0\Z34.pdb
+C:\Users\Norelax\Desktop\Sem5\Z34\obj\Debug\net6.0\Z34.genruntimeconfig.cache
